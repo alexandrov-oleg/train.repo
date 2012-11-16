@@ -7,3 +7,5 @@ unzip -d curr $package.zip
 mv curr/Sugar* $installed
 rm -rf curr
 chown -R daemon:daemon $installed
+
+MASTER
